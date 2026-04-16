@@ -1,3 +1,5 @@
+use sql_course;
+
 select 
 	id, 
 	name,
